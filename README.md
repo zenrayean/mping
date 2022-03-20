@@ -5,7 +5,8 @@ mping可以从本机对国内服务器发起ping、路由跟踪测试
 ### 使用方法
 
 ```bash
-wget https://raw.githubusercontent.com/helloxz/mping/master/mping.sh && bash mping.sh
+wget https://raw.githubusercontent.com/zenrayean/mping/master/mping.sh && bash mping.sh
+wget https://raw.githubusercontent.com/zenrayean/mping/master/mping.sh | bash
 ```
 
 生成结果如下：
